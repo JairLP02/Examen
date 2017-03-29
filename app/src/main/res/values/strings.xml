@@ -20,6 +20,9 @@
     <string name="niquel">Niquel</string>
     <string name="graciasCompra">Gracias Por Su Compra</string>
     <string name="error1">Digite la cantidad</string>
+    <string name="sucompraes">Hola Su Compra es</string>
+    <string name="preciototal">Precio total es</string>
+
 
 
     <string-array name="material">

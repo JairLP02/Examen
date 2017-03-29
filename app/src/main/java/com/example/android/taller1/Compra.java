@@ -28,7 +28,7 @@ public class Compra extends AppCompatActivity {
         total = b.getString("Total");
         res = this.getResources();
 
-        aux ="Hola su compra es:"+" Cantidad "+cant+" Materia "+mat+" dijen "+dijen+" tipo"+tipo+"moneda "+moneda+" " + "El precio es: "+total;
+        aux =res.getString(R.string.sucompraes)+res.getString(R.string.cantidad)+cant+res.getString(R.string.material)+mat+res.getString(R.string.dijen)+dijen+res.getString(R.string.tipo)+tipo+res.getString(R.string.moneda)+moneda+" " + res.getString(R.string.preciototal)+total;
         compra.setText(aux);
 
 
