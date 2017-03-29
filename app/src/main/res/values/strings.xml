@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">EMPRESA XYZ</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="manillas">Manillas</string>
+    <string name="material">Material</string>
+    <string name="dijen">Dijen</string>
+    <string name="tipo">Tipo</string>
+    <string name="moneda">Moneda</string>
+    <string name="peso">Peso</string>
+    <string name="dolar">Dolar</string>
+    <string name="generar">Generar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="oro">Oro</string>
+    <string name="oroRosado">Oro Rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string name="graciasCompra">Gracias Por Su Compra</string>
+    <string name="error1">Digite la cantidad</string>
+
+
+    <string-array name="material">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+
+    <string-array name="dijen">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+
+    <string-array name="tipo">
+        <item>@string/oro</item>
+        <item>@string/oroRosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+
+</resources>
